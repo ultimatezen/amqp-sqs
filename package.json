@@ -4,7 +4,7 @@
   "version": "0.7.0",
   "main": "index.js",
   "dependencies": {
-      "aws-sqs": "~0.0.6"
+      "aws-sqs": "git+ssh://git@github.com:ultimatezen/aws-sqs.git#feature/config"
     , "winston": "~0.7.2"
     , "yaml": "~0.2.3"
     , "limiter": "~1.0.5"
